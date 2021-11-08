@@ -2,7 +2,7 @@
 - 👀 I’m interested in Blockchain & Cyber-Security.
 - 🌱 I’m currently learning Mobile Application & Information Security.
 - 💞️ I’m looking to collaborate on nothing as of now 😅 (ps. need to learn 1st).
-- 📫 Reach me thorugh my mentioned Mail Id or Twitter DM's.
+- 📫 Reach me thorugh my mentioned Mail ID or Twitter DM's.
 
 <!---
 aka-0x4C3DD/aka-0x4C3DD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
