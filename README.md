@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aka-0x4C3DD
+- 👋 Hi, I’m Suman (@aka-0x4C3DD)
 - 👀 I’m interested in Blockchain & Cyber-Security.
 - 🌱 I’m currently learning Mobile Application & Information Security.
 - 💞️ I’m looking to collaborate on nothing as of now 😅 (ps. need to learn 1st).
