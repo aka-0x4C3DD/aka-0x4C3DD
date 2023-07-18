@@ -9,7 +9,7 @@
     .marquee strong {
       font-family: 'Google Sans', sans-serif !important;
       color: #2F4F4F;
-      position: absolute;
+      position: relative;
       font-size: clamp(1.2rem, 3vw, 2rem);
       width: 100%;
       height: 100%;
@@ -27,7 +27,7 @@
         transform: translateX(-80%);
       }
     }
-    @media screen and (max-width: 600px) {
+    @media screen and (max-width: 150px) {
       .marquee {
         height: 10vh;
       }
