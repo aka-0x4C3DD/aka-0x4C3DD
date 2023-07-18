@@ -1,45 +1,45 @@
-<svg fill="none" viewBox="0 0 800 100" width="100%" height="auto" xmlns="http://www.w3.org/2000/svg">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="50" viewBox="0 0 800 50" fill="none">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Google+Sans&amp;display=swap');
+    .marquee {
+      height: 5vh;
+      overflow: hidden;
+      position: relative;
+    }
+    .marquee strong {
+      font-family: 'Google Sans', sans-serif !important;
+      color: #2F4F4F;
+      position: absolute;
+      font-size: clamp(1.2rem, 3vw, 2rem);
+      width: 100%;
+      height: 100%;
+      margin: 0;
+      line-height: 5vh;
+      text-align: center;
+      transform: translateX(100%);
+      animation: marquee 7s linear infinite;
+    }
+    @keyframes marquee {
+      0% {
+        transform: translateX(100%);
+      }
+      100% {
+        transform: translateX(-80%);
+      }
+    }
+    @media screen and (max-width: 600px) {
+      .marquee {
+        height: 10vh;
+      }
+      .marquee strong {
+        font-size: clamp(1rem, 6vw, 2rem);
+        line-height: 10vh;
+      }
+    }
+  </style>
   <foreignObject width="100%" height="100%">
-    <div xmlns="http://www.w3.org/1999/xhtml">
-      <style>
-        @import url('https://fonts.googleapis.com/css2?family=Google+Sans&amp;display=swap');
-        .marquee {
-          height: 100%;
-          overflow: hidden;
-          position: relative;
-        }
-        .marquee strong {
-          font-family: 'Google Sans', sans-serif !important;
-          color: seagreen;
-          position: absolute;
-          font-size: clamp(1.2rem, 3vw, 2rem);
-          width: 100%;
-          height: 100%;
-          margin: 0;
-          line-height: 100%;
-          text-align: center;
-          white-space: nowrap;
-          transform: translateX(100%);
-          animation: marquee 10s linear infinite;
-        }
-        @keyframes marquee {
-          0% {
-            transform: translateX(100%);
-          }
-          100% {
-            transform: translateX(calc(-100% + 100vw));
-          }
-        }
-
-        @media screen and (max-width: 600px) {
-          .marquee strong {
-            font-size: clamp(1rem, 6vw, 2rem);
-          }
-        }
-      </style>
-      <div class="marquee">
-        <strong>thanks for visiting my profile, see you next time!</strong>
-      </div>
+    <div xmlns="http://www.w3.org/1999/xhtml" class="marquee">
+      <strong>thanks for visiting my profile, see you next time !</strong>
     </div>
   </foreignObject>
 </svg>
