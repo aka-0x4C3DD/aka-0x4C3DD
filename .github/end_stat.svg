@@ -1,10 +1,10 @@
-<svg fill="none" viewBox="0 0 800 50" width="100%" height="auto" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" viewBox="0 0 800 100" width="100%" height="auto" xmlns="http://www.w3.org/2000/svg">
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
         @import url('https://fonts.googleapis.com/css2?family=Google+Sans&amp;display=swap');
         .marquee {
-          height: 5vh;
+          height: 50vh;
           overflow: hidden;
           position: relative;
         }
@@ -16,7 +16,7 @@
           width: 100%;
           height: 100%;
           margin: 0;
-          line-height: 5vh;
+          line-height: 50vh;
           text-align: center;
           transform: translateX(100%);
           animation: marquee 10s linear infinite;
@@ -32,16 +32,16 @@
 
         @media screen and (max-width: 600px) {
           .marquee {
-            height: 10vh;
+            height: 100vh;
           }
           .marquee strong {
             font-size: clamp(1rem, 6vw, 2rem);
-            line-height: 10vh;
+            line-height: 100vh;
           }
         }
       </style>
       <div class="marquee">
-        <strong>thanks for visiting my profile, see you next time !</strong>
+        <strong>thanks for visiting my profile, see you next time!</strong>
       </div>
     </div>
   </foreignObject>
