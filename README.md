@@ -79,7 +79,7 @@ ________
 
 <p align="center">
   <img align="middle" src= "https://profile-counter.glitch.me/aka-0x4C3DD/count.svg" /> 
-  <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/aka-0x4C3DD/aka-0x4C3DD/1621036ffeaa304410eea6661972861216c00a69/.github/end_stat.svg" />
+  <img alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/aka-0x4C3DD/aka-0x4C3DD/637810c7db0debfcbc5c66922bbbbe407049660c/.github/end_stat.svg" />
 </p>
 
 
