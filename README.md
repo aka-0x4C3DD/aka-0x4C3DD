@@ -30,6 +30,8 @@ You can click the Preview link to take a look at your changes.
   
 </p>
 
+--------
+
 <p>
   <h2>💫 About Me</h2>
   
@@ -73,12 +75,13 @@ You can click the Preview link to take a look at your changes.
 <!--- ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) -->
 
 
-<br><br>
+________
 
 <p align="center">
   <img align="middle" src= "https://profile-counter.glitch.me/aka-0x4C3DD/count.svg" /> 
   <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/aka-0x4C3DD/aka-0x4C3DD/1621036ffeaa304410eea6661972861216c00a69/.github/end_stat.svg" />
 </p>
+
 
 
 
