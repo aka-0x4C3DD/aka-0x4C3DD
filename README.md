@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 <img src="https://github.com/aka-0x4C3DD/aka-0x4C3DD/blob/main/.github/image_processing20191217-19447-1m2200t.gif?raw=true" alt="Hello world">
 
 <p align="center"> 
-  <h1 align="center">Namaste 🙏🏼 I'm Suman </h1>
+  <h1 align="center">Nomoshkar 🙏🏼 I'm Suman </h1>
   <h3 align="center">tech aficionado • eccentric • gamer | (ISC)² CC • THM Top 4% </h3>
 </p>
 
