@@ -1,0 +1,26 @@
+name: Picture Download
+
+on:
+  schedule:
+    - cron: "0 * * * *"
+
+jobs:
+  download:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Download Picture
+        run: |
+          mkdir -p .github
+          curl -o .github/0x4C3DD.png https://tryhackme-badges.s3.amazonaws.com/0x4C3DD.png
+
+      - name: Commit and Push Changes
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add .
+          git commit -m "Auto-updated picture"
+          git push
