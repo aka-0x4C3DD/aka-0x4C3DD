@@ -53,10 +53,6 @@ You can click the Preview link to take a look at your changes.
 <h2 align="right">Recent Blogs Posts List 📝</h2>
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring Mobile Pentesting Tools: Safeguarding Mobile Applications](https://medium.com/@aka.0x4C3DD/exploring-mobile-pentesting-tools-safeguarding-mobile-applications-430f765c1a1e?source=rss-5eb999a3fbcb------2)
-- [Security Testing of Web Applications Using Burp Suite](https://medium.com/@aka.0x4C3DD/security-testing-of-web-applications-using-burp-suite-f01e161a3325?source=rss-5eb999a3fbcb------2)
-- [Securing the Future: Understanding the CISSP’s 8 Principles for Effective Cyberdefence](https://medium.com/@aka.0x4C3DD/securing-the-future-understanding-the-cissps-8-principles-for-effective-cyberdefence-f31c5b45833d?source=rss-5eb999a3fbcb------2)
-- [A Deep Dive into the Vulnerabilities of WordPress and Joomla: What You Need to Know to Secure Your…](https://medium.com/@aka.0x4C3DD/a-deep-dive-into-the-vulnerabilities-of-wordpress-and-joomla-what-you-need-to-know-to-secure-your-5d1e107a8edd?source=rss-5eb999a3fbcb------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## 💻 Tech Stack:
