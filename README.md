@@ -36,18 +36,14 @@ You can click the Preview link to take a look at your changes.
 
 <p>
   <h2>💫 About Me</h2>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/0x4C3DD.png" alt="TryHackMe" align="right">
   
-- 🌱 I’m currently learning **Information & Blockchain Security**
-
-- 👨‍💻 All of my projects are available [@aka-0x4C3DD/eFolio](https://github.com/aka-0x4C3DD/eFolio)
-
-- 📝 I frequently write articles on [medium.com](https://medium.com/@aka.0x4C3DD)
-
-- 💬 Mostly, I am familiar with **Digital Forensics & Incident Response**
-
-- 📫 You can reach me through my [email](mailto:mr.sumangarai.3122@gmail.com) or my social media handles provided
-
-- 📄 Know about my experiences through my [résumé](https://rxresu.me/r/rAuglqab)
+> 🌱 I’m currently learning **Information & Blockchain Security** <br> <br>
+> 👨‍💻 All of my projects are available [@aka-0x4C3DD/eFolio](https://github.com/aka-0x4C3DD/eFolio) <br> <br>
+> 📝 I frequently write articles on [medium.com](https://medium.com/@aka.0x4C3DD) <br> <br>
+> 💬 Mostly, I am familiar with **Digital Forensics & Incident Response** <br> <br>
+> 📫 You can reach me through my [email](mailto:mr.sumangarai.3122@gmail.com) or my social media handles provided <br> <br>
+> 📄 Know about my experiences through my [résumé](https://rxresu.me/r/rAuglqab)
 
 </p>
 
