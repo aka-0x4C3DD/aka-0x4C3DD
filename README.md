@@ -36,7 +36,7 @@ You can click the Preview link to take a look at your changes.
 
 <p>
   <h2>💫 About Me</h2>
-  <img src="https://tryhackme-badges.s3.amazonaws.com/0x4C3DD.png" alt="TryHackMe" align="right"> 
+  <img src="https://github.com/aka-0x4C3DD/aka-0x4C3DD/blob/main/.github/0x4C3DD.png?raw=true" align="right"> 
   
 > 🌱 I’m currently learning **Information & Blockchain Security** <br> <br>
 > 👨‍💻 All of my projects are available [@aka-0x4C3DD/eFolio](https://github.com/aka-0x4C3DD/eFolio) <br> <br>
