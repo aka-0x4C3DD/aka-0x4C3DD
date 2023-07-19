@@ -17,10 +17,25 @@ jobs:
           mkdir -p .github
           curl -o .github/0x4C3DD.png https://tryhackme-badges.s3.amazonaws.com/0x4C3DD.png
 
-      - name: Commit and Push Changes
+      - name: Configure Git
         run: |
-          git config user.name "GitHub Actions"
-          git config user.email "actions@github.com"
-          git add .
-          git commit -m "Auto-updated picture"
-          git push
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+
+      - name: Check Git Status
+        id: git_status
+        run: |
+          git status --porcelain
+          echo "::set-output name=changes::$(if git status --porcelain | grep .; then echo true; else echo false; fi)"
+
+      - name: Commit and Push Changes
+        env:
+          PAT_TOKEN: ${{ secrets.PAT_TOKEN }}
+        run: |
+          if [ "${{ steps.git_status.outputs.changes }}" == "true" ]; then
+            git add .
+            git commit -m "Auto-updated picture"
+            git push
+          else
+            echo "No changes to commit."
+          fi
