@@ -51,10 +51,10 @@ You can click the Preview link to take a look at your changes.
 <h2 align="right">Recent Blogs Posts List 📝</h2>
 
 <!-- BLOG-POST-LIST:START -->
-- [Demystifying Cybersecurity Jargon: Unraveling the Techy Tapestry](https://medium.com/@aka.0x4C3DD/demystifying-cybersecurity-jargon-unraveling-the-techy-tapestry-c1cd7b43a88?source=rss-5eb999a3fbcb------2)
-- [Exploring Mobile Pentesting Tools: Safeguarding Mobile Applications](https://medium.com/@aka.0x4C3DD/exploring-mobile-pentesting-tools-safeguarding-mobile-applications-430f765c1a1e?source=rss-5eb999a3fbcb------2)
-- [Security Testing of Web Applications Using Burp Suite](https://medium.com/@aka.0x4C3DD/security-testing-of-web-applications-using-burp-suite-f01e161a3325?source=rss-5eb999a3fbcb------2)
-- [Securing the Future: Understanding the CISSP’s 8 Principles for Effective Cyberdefence](https://medium.com/@aka.0x4C3DD/securing-the-future-understanding-the-cissps-8-principles-for-effective-cyberdefence-f31c5b45833d?source=rss-5eb999a3fbcb------2)
+- [OS Command Injection Vulnerabilities in Web Applications](https://medium.com/@aka.0x4C3DD/os-command-injection-vulnerabilities-in-web-applications-49420429b53?source=rss-5eb999a3fbcb------2)
+- [Clickjacking: A Comprehensive Overview, Detection, Impacts, and Mitigation](https://medium.com/@aka.0x4C3DD/clickjacking-a-comprehensive-overview-detection-impacts-and-mitigation-cbfbab44f9f8?source=rss-5eb999a3fbcb------2)
+- [Log4j Vulnerability &lpar;CVE-2021–44228&rpar; — Log4Shell: A Zero-Day Remote Code Execution Exploit](https://medium.com/@aka.0x4C3DD/log4j-vulnerability-cve-2021-44228-log4shell-a-zero-day-remote-code-execution-exploit-9440cdb1e771?source=rss-5eb999a3fbcb------2)
+- [S3 Bucket Enumeration: Research and Insights](https://medium.com/@aka.0x4C3DD/s3-bucket-enumeration-research-and-insights-674da26c049e?source=rss-5eb999a3fbcb------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## 💻 Tech Stack:
