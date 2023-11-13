@@ -51,10 +51,10 @@ You can click the Preview link to take a look at your changes.
 <h2 align="right">Recent Blogs Posts List 📝</h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Securing NoSQL Databases: A Comprehensive Guide](https://medium.com/@aka.0x4C3DD/securing-nosql-databases-a-comprehensive-guide-c2e2a5d787a4?source=rss-5eb999a3fbcb------2)
+- [The Sneaky Side Door: A Deep Dive into Insecure Direct Object References &lpar;IDOR&rpar; in Web Applications](https://medium.com/@aka.0x4C3DD/the-sneaky-side-door-a-deep-dive-into-insecure-direct-object-references-idor-in-web-applications-990db7a8f32d?source=rss-5eb999a3fbcb------2)
+- [Shielding Your Business: Safeguarding Against Business Email Compromise](https://medium.com/@aka.0x4C3DD/shielding-your-business-safeguarding-against-business-email-compromise-18d07f5db8ae?source=rss-5eb999a3fbcb------2)
 - [OS Command Injection Vulnerabilities in Web Applications](https://medium.com/@aka.0x4C3DD/os-command-injection-vulnerabilities-in-web-applications-49420429b53?source=rss-5eb999a3fbcb------2)
-- [Clickjacking: A Comprehensive Overview, Detection, Impacts, and Mitigation](https://medium.com/@aka.0x4C3DD/clickjacking-a-comprehensive-overview-detection-impacts-and-mitigation-cbfbab44f9f8?source=rss-5eb999a3fbcb------2)
-- [Log4j Vulnerability &lpar;CVE-2021–44228&rpar; — Log4Shell: A Zero-Day Remote Code Execution Exploit](https://medium.com/@aka.0x4C3DD/log4j-vulnerability-cve-2021-44228-log4shell-a-zero-day-remote-code-execution-exploit-9440cdb1e771?source=rss-5eb999a3fbcb------2)
-- [S3 Bucket Enumeration: Research and Insights](https://medium.com/@aka.0x4C3DD/s3-bucket-enumeration-research-and-insights-674da26c049e?source=rss-5eb999a3fbcb------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## 💻 Tech Stack:
