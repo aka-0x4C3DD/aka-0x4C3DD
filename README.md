@@ -43,7 +43,7 @@ You can click the Preview link to take a look at your changes.
 > 📝 I frequently write articles on [medium.com](https://medium.com/@aka.0x4C3DD) <br> <br>
 > 💬 Mostly, I am familiar with **Digital Forensics & Incident Response** <br> <br>
 > 📫 You can reach me through my [email](mailto:mr.sumangarai.3122@gmail.com) or my social media handles provided <br> <br>
-> 📄 Know about my experiences through my [résumé](https://rxresu.me/r/rAuglqab)
+> 📄 Know about my experiences through my [résumé](https://rxresu.me/mr.sumangarai.3122/generic-copy-copy)
 
 </p>
 
