@@ -51,10 +51,10 @@ You can click the Preview link to take a look at your changes.
 <h2 align="right">Recent Blogs Posts List 📝</h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Follina’s Secret — A Critical Analysis of the MSDT Windows Zero-Day](https://medium.com/@aka.0x4C3DD/follinas-secret-a-critical-analysis-of-the-msdt-windows-zero-day-35311af1774f?source=rss-5eb999a3fbcb------2)
 - [From Paths to Payloads: File Vulnerabilities in Web Architecture](https://medium.com/@aka.0x4C3DD/from-paths-to-payloads-file-vulnerabilities-in-web-architecture-90db311a09b9?source=rss-5eb999a3fbcb------2)
 - [Securing NoSQL Databases: A Comprehensive Guide](https://medium.com/@aka.0x4C3DD/securing-nosql-databases-a-comprehensive-guide-c2e2a5d787a4?source=rss-5eb999a3fbcb------2)
 - [The Sneaky Side Door: A Deep Dive into Insecure Direct Object References &lpar;IDOR&rpar; in Web Applications](https://medium.com/@aka.0x4C3DD/the-sneaky-side-door-a-deep-dive-into-insecure-direct-object-references-idor-in-web-applications-990db7a8f32d?source=rss-5eb999a3fbcb------2)
-- [Shielding Your Business: Safeguarding Against Business Email Compromise](https://medium.com/@aka.0x4C3DD/shielding-your-business-safeguarding-against-business-email-compromise-18d07f5db8ae?source=rss-5eb999a3fbcb------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## 💻 Tech Stack:
