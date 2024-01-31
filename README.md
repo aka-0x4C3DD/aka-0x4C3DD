@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center"> 
   <h1 align="center">Nomoshkar 🙏🏼 Ami Suman </h1>
-  <h3 align="center">tech aficionado • eccentric • gamer | (ISC)² CC • THM Top 11% </h3>
+  <h3 align="center">tech aficionado • eccentric • gamer <!--|  (ISC)² CC • THM Top 11% --></h3>
 </p>
 
 <p align="center">
@@ -36,14 +36,16 @@ You can click the Preview link to take a look at your changes.
 
 <p>
   <h2>💫 About Me</h2>
-  <img src="https://github.com/aka-0x4C3DD/aka-0x4C3DD/blob/main/.github/0x4C3DD.png?raw=true" align="right"> 
+  <img src="https://github.com/aka-0x4C3DD/aka-0x4C3DD/blob/main/.github/fortinet.png?raw=true" align="right" width = 100 height = 100> 
+  <img src="https://github.com/aka-0x4C3DD/aka-0x4C3DD/blob/main/.github/isc2-cc.png?raw=true" align="right" width = 100 height = 100> 
+  <!--- <img src="https://github.com/aka-0x4C3DD/aka-0x4C3DD/blob/main/.github/microsoft.png?raw=true" align="right" width = 100 height = 100> --->
   
 > 🌱 I’m currently learning **Information & Blockchain Security** <br> <br>
-> 👨‍💻 All of my projects are available [@aka-0x4C3DD/eFolio](https://github.com/aka-0x4C3DD/eFolio) <br> <br>
-> 📝 I frequently write articles on [medium.com](https://medium.com/@aka.0x4C3DD) <br> <br>
+> 👨‍💻 All of my projects are available [@aka-0x4C3DD/eFolio](https://github.com/aka-0x4C3DD/eFolio) <br> <br> 
+> 📝 I frequently write articles on [medium.com](https://medium.com/@aka.0x4C3DD) <br> <img src="https://github.com/aka-0x4C3DD/aka-0x4C3DD/blob/main/.github/microsoft.png?raw=true" align="right" width = 100 height = 100> <br> 
 > 💬 Mostly, I am familiar with **Digital Forensics & Incident Response** <br> <br>
-> 📫 You can reach me through my [email](mailto:mr.sumangarai.3122@gmail.com) or my social media handles provided <br> <br>
-> 📄 Know about my experiences through my [résumé](https://rxresu.me/mr.sumangarai.3122/generic-copy-copy)
+> 📫 You can reach me through my [email](mailto:mr.sumangarai.3122@gmail.com) or my social media handles provided <br> <br> 
+> 📄 Know about my experiences through my [résumé](https://rxresu.me/0x4c3dd/original-recent-updated)
 
 </p>
 
