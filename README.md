@@ -53,10 +53,10 @@ You can click the Preview link to take a look at your changes.
 <h2 align="right">Recent Blogs Posts List 📝</h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Decoding Blockchain and Crypto: My Top FAQs Answered — Part I](https://medium.com/@aka.0x4C3DD/decoding-blockchain-and-crypto-my-top-faqs-answered-part-i-7593c893d1ee?source=rss-5eb999a3fbcb------2)
 - [Hacked &amp; Hijacked: My Rollercoaster Ride through Session Snafus!](https://medium.com/@aka.0x4C3DD/hacked-hijacked-my-rollercoaster-ride-through-session-snafus-5141ef818cb8?source=rss-5eb999a3fbcb------2)
 - [CORS 101: Understanding, Implementing, and Troubleshooting](https://medium.com/@aka.0x4C3DD/cors-101-understanding-implementing-and-troubleshooting-2c40af23ff24?source=rss-5eb999a3fbcb------2)
 - [Follina’s Secret — A Critical Analysis of the MSDT Windows Zero-Day](https://medium.com/@aka.0x4C3DD/follinas-secret-a-critical-analysis-of-the-msdt-windows-zero-day-35311af1774f?source=rss-5eb999a3fbcb------2)
-- [From Paths to Payloads: File Vulnerabilities in Web Architecture](https://medium.com/@aka.0x4C3DD/from-paths-to-payloads-file-vulnerabilities-in-web-architecture-90db311a09b9?source=rss-5eb999a3fbcb------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## 💻 Tech Stack:
