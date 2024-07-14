@@ -22,12 +22,14 @@ You can click the Preview link to take a look at your changes.
   <a href= "https://paypal.me/@0x4C3DD"> <img src= "https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" /> </a>
   <a href= "https://www.linkedin.com/in/aka-0x4c3dd/"> <img src= "https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" /> </a>
   <a href= "https://fb.com/aka.0x4c3dd"> <img src= "https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white&style=for-the-badge" /> </a>
-  <a href= "https://twitter.com/aka_0x4C3DD"> <img src= "https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white&style=for-the-badge" /> </a>
-  <a href= "https://discordapp.com/users/725972481663565874"> <img src= "https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white&style=for-the-badge" /> </a>
+  <a href= "https://scholar.google.com/citations?user=K8AepxYAAAAJ&hl=en"> <img src= "https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" /> </a>
+  <a href= "https://discordapp.com/users/725972481663565874"> <img src= "https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white&style=for-the-badge" /> </a> <br>
   <a href= "https://medium.com/@aka.0x4c3dd"> <img src= "https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white&style=for-the-badge" /> </a>
+  <a href= "https://twitter.com/aka_0x4C3DD"> <img src= "https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /> </a>
   <a href= " "> <img src= "https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white&style=for-the-badge" /> </a>
   <a href= "https://www.youtube.com/c/0x4c3dd"> <img src= "https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white&style=for-the-badge" /> </a>
   <a href= "https://www.quora.com/profile/Suman-Garai-40"> <img src= "https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white&style=for-the-badge" /> </a>
+  
   
   
 </p>
@@ -36,12 +38,15 @@ You can click the Preview link to take a look at your changes.
 
 <p>
   <h2>💫 About Me</h2>
-  <img src="https://github.com/aka-0x4C3DD/aka-0x4C3DD/blob/main/.github/fortinet.png?raw=true" align="right" width = 100 height = 100> 
-  <img src="https://github.com/aka-0x4C3DD/aka-0x4C3DD/blob/main/.github/isc2-cc.png?raw=true" align="right" width = 100 height = 100> 
+  <a href = "https://www.credly.com/badges/b28df04d-2dcf-49d9-852e-216ae519d6ec/public_url"> <img src="https://github.com/aka-0x4C3DD/aka-0x4C3DD/blob/main/.github/Screenshot_14-7-2024_201844_www.w3schools.com.jpeg?raw=true" align="right" width = 100 height = 100> 
+  <a href = "https://www.credly.com/badges/152d3ea4-bcd1-4f4f-8ed3-cb3b5d2ded88/public_url"> <img src="https://github.com/aka-0x4C3DD/aka-0x4C3DD/blob/main/.github/Screenshot_14-7-2024_202240_www.w3schools.com.jpeg?raw=true" align="right" width = 100 height = 100> 
+  <a href = "https://www.credly.com/badges/a502c878-08fe-4bd9-9c1b-d471e9bcfa0f/public_url"> <img src="https://github.com/aka-0x4C3DD/aka-0x4C3DD/blob/main/.github/Screenshot_14-7-2024_202752_www.w3schools.com.jpeg?raw=true" align="right" width = 100 height = 100> 
+  <a href = "https://www.credly.com/badges/89d2aa0c-dc32-4cf0-947c-c32e957b7151/public_url"> <img src="https://github.com/aka-0x4C3DD/aka-0x4C3DD/blob/main/.github/Screenshot_14-7-2024_202628_www.w3schools.com.jpeg?raw=true" align="right" width = 100 height = 100> 
+  
   <!--- <img src="https://github.com/aka-0x4C3DD/aka-0x4C3DD/blob/main/.github/microsoft.png?raw=true" align="right" width = 100 height = 100> --->
   
 > 🌱 I’m currently learning **Information & Blockchain Security** <br> <br>
-> 👨‍💻 All of my projects are available [@aka-0x4C3DD/eFolio](https://github.com/aka-0x4C3DD/eFolio) <br> <br> 
+> 👨‍💻 All of my projects are available [here](https://github.com/aka-0x4C3DD/myPortfolio/) <br> <br> 
 > 📝 I frequently write articles on [medium.com](https://medium.com/@aka.0x4C3DD) <br> <br> 
 > 💬 Mostly, I am familiar with **Digital Forensics & Incident Response** <br> <br>
 > 📫 You can reach me through my [email](mailto:mr.sumangarai.3122@gmail.com) or my social media handles provided <br> <br> 
