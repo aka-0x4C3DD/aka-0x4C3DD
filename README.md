@@ -38,17 +38,18 @@ You can click the Preview link to take a look at your changes.
 
 <p>
   <h2>💫 About Me</h2>
-  <a href = "https://www.credly.com/badges/b28df04d-2dcf-49d9-852e-216ae519d6ec/public_url"> <img src="https://github.com/aka-0x4C3DD/aka-0x4C3DD/blob/main/.github/Screenshot_14-7-2024_201844_www.w3schools.com.jpeg?raw=true" align="right" width = 100 height = 100> 
+  <!--- <a href = "https://www.credly.com/badges/b28df04d-2dcf-49d9-852e-216ae519d6ec/public_url"> <img src="https://github.com/aka-0x4C3DD/aka-0x4C3DD/blob/main/.github/Screenshot_14-7-2024_201844_www.w3schools.com.jpeg?raw=true" align="right" width = 100 height = 100> 
   <a href = "https://www.credly.com/badges/152d3ea4-bcd1-4f4f-8ed3-cb3b5d2ded88/public_url"> <img src="https://github.com/aka-0x4C3DD/aka-0x4C3DD/blob/main/.github/Screenshot_14-7-2024_202240_www.w3schools.com.jpeg?raw=true" align="right" width = 100 height = 100> 
-  <a href = "https://www.credly.com/badges/a502c878-08fe-4bd9-9c1b-d471e9bcfa0f/public_url"> <img src="https://github.com/aka-0x4C3DD/aka-0x4C3DD/blob/main/.github/Screenshot_14-7-2024_202752_www.w3schools.com.jpeg?raw=true" align="right" width = 100 height = 100> 
-  <a href = "https://www.credly.com/badges/89d2aa0c-dc32-4cf0-947c-c32e957b7151/public_url"> <img src="https://github.com/aka-0x4C3DD/aka-0x4C3DD/blob/main/.github/Screenshot_14-7-2024_202628_www.w3schools.com.jpeg?raw=true" align="right" width = 100 height = 100> 
+  <a href = "https://www.credly.com/badges/a502c878-08fe-4bd9-9c1b-d471e9bcfa0f/public_url"> <img src="https://github.com/aka-0x4C3DD/aka-0x4C3DD/blob/main/.github/Screenshot_14-7-2024_202752_www.w3schools.com.jpeg?raw=true" align="right" width = 100 height = 100> --->
+  
+  <a href = "https://www.credly.com/users/0x4c3dd"> <img src="https://github.com/aka-0x4C3DD/aka-0x4C3DD/blob/main/.github/images-credly.png?raw=true" align="right" width = 100 height = 100> 
   
   <!--- <img src="https://github.com/aka-0x4C3DD/aka-0x4C3DD/blob/main/.github/microsoft.png?raw=true" align="right" width = 100 height = 100> --->
   
 > 🌱 I’m currently learning **Information & Blockchain Security** <br> <br>
 > 👨‍💻 All of my projects are available [here](https://github.com/aka-0x4C3DD/myPortfolio/) <br> <br> 
 > 📝 I frequently write articles on [medium.com](https://medium.com/@aka.0x4C3DD) <br> <br> 
-> 💬 Mostly, I am familiar with **Digital Forensics & Incident Response** <br> <br>
+> 💬 Mostly, I am familiar with **GRC & DFIR** <br> <br>
 > 📫 You can reach me through my [email](mailto:mr.sumangarai.3122@gmail.com) or my social media handles provided <br> <br> 
 > 📄 Know about my experiences through my [résumé](https://rxresu.me/0x4c3dd/original-recent-updated)
 
