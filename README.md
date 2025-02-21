@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center"> 
   <h1 align="center">Nomoshkar 🙏🏼 Ami Suman </h1>
-  <h3 align="center">tech aficionado • eccentric • gamer <!--|  (ISC)² CC • THM Top 11% --></h3>
+  <h3 align="center">tech aficionado • maverick • gamer <!--|  (ISC)² CC • THM Top 11% --></h3>
 </p>
 
 <p align="center">
