@@ -46,10 +46,10 @@ You can click the Preview link to take a look at your changes.
   
   <!--- <img src="https://github.com/aka-0x4C3DD/aka-0x4C3DD/blob/main/.github/microsoft.png?raw=true" align="right" width = 100 height = 100> --->
   
-> 🌱 I’m currently learning **Information & Blockchain Security** <br> <br>
-> 👨‍💻 All of my projects are available [here](https://github.com/aka-0x4C3DD/myPortfolio/) <br> <br> 
-> 📝 I frequently write articles on [medium.com](https://medium.com/@aka.0x4C3DD) <br> <br> 
-> 💬 Mostly, I am familiar with **GRC & DFIR** <br> <br>
+> 🌱 I'm augmenting in **Information Security** and exploring the security aspects of **Decentralized Technologies** <br> <br>
+> 👨‍💻 All my infosec protfolio activities are [here](https://github.com/aka-0x4C3DD/myPortfolio/), with projects pinned below <br> <br> 
+> 📝 Occationally, I write articles on [medium.com](https://medium.com/@aka.0x4C3DD), and contribute to my [LinkedIn Newsletter](https://www.linkedin.com/newsletters/notesbook-7174090474285072385) <br> <br> 
+> 💬 Primarily, I enjoy engaging in **White and Purple Team** activities, with some **Green Team** initiatives <br> <br>
 > 📫 You can reach me through my [email](mailto:mr.sumangarai.3122@gmail.com) or my social media handles provided <br> <br> 
 > 📄 Know about my experiences through my [résumé](https://rxresu.me/0x4c3dd/original-recent-updated)
 
