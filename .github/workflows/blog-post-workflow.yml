@@ -11,9 +11,9 @@ jobs:
             - uses: gautamkrishnar/blog-post-workflow@master
               with: 
                 max_post_count: "4"
-                feed_list: "https://medium.com/feed/@aka.0x4c3dd"
+                feed_list: "https://medium.com/feed/@aka.0x4c3dd,https://rss.app/feeds/owWWXUB1cofisThP"
             
-            - uses: gautamkrishnar/blog-post-workflow@master
-              with: 
-                max_post_count: "4"
-                feed_list: "https://www.linkedin.com/feed/update/urn:li:activity:7174090474285072385"
+            #- uses: gautamkrishnar/blog-post-workflow@master
+              #with: 
+                #max_post_count: "4"
+                #feed_list: "https://www.linkedin.com/feed/update/urn:li:activity:7174090474285072385"
