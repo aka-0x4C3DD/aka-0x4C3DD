@@ -60,9 +60,6 @@ You can click the Preview link to take a look at your changes.
 
 <!-- BLOG-POST-LIST:START -->
 - [The Imperfection Paradox: When Flaws Become Fingerprints](https://www.linkedin.com/pulse/imperfection-paradox-when-flaws-become-fingerprints-suman-garai-nve9c)
-- [Decoding Blockchain and Crypto: My Top FAQs Answered — Part IV](https://medium.com/coinmonks/decoding-blockchain-and-crypto-my-top-faqs-answered-part-iv-511b828e6616?source=rss-5eb999a3fbcb------2)
-- [Decoding Blockchain and Crypto: My Top FAQs Answered — Part III](https://medium.com/coinmonks/decoding-blockchain-and-crypto-my-top-faqs-answered-part-iii-b6e18de6b1a2?source=rss-5eb999a3fbcb------2)
-- [Decoding Blockchain and Crypto: My Top FAQs Answered — Part II](https://medium.com/coinmonks/decoding-blockchain-and-crypto-my-top-faqs-answered-part-ii-0dab4b32c737?source=rss-5eb999a3fbcb------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## 💻 Tech Stack:
