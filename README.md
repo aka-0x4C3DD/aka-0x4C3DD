@@ -12,10 +12,10 @@ You can click the Preview link to take a look at your changes.
 
 <img src="https://github.com/aka-0x4C3DD/aka-0x4C3DD/blob/main/.github/image_processing20191217-19447-1m2200t.gif?raw=true" alt="Hello world">
 
-<p align="center"> 
-  <h1 align="center">Nomoshkar 🙏🏼 Ami Suman </h1>
-  <h4 align="center"><i>welcome to my github profile<!--|  (ISC)² CC • THM Top 11% --></i></h4>
-</p>
+<div align="center"> 
+  <h1>Nomoshkar 🙏🏼 Ami Suman </h1>
+  <i>welcome to my github profile</i>
+</div> <br>
 
 <p align="center">
   <!--- <a href= "https://www.twitch.tv/aka_0x4c3dd"> <img src= "https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white&style=for-the-badge" /> </a> -->
