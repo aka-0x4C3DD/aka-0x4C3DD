@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center"> 
   <h1 align="center">Nomoshkar 🙏🏼 Ami Suman </h1>
-  <h3 align="center">tech aficionado • maverick • gamer <!--|  (ISC)² CC • THM Top 11% --></h3>
+  <h4 align="center"><i>welcome to my github profile<!--|  (ISC)² CC • THM Top 11% --></i></h4>
 </p>
 
 <p align="center">
@@ -51,7 +51,7 @@ You can click the Preview link to take a look at your changes.
 > 📝 Occationally, I write articles on [medium.com](https://medium.com/@aka.0x4C3DD), and contribute to my [LinkedIn Newsletter](https://www.linkedin.com/newsletters/notesbook-7174090474285072385) <br> <br> 
 > 💬 Primarily, I enjoy engaging in **White and Purple Team** activities, with some **Green Team** initiatives <br> <br>
 > 📫 You can reach me through my [email](mailto:mr.sumangarai.3122@gmail.com) or my social media handles provided <br> <br> 
-> 📄 Know about my experiences through my [résumé](https://rxresu.me/0x4c3dd/original-recent-updated)
+> 📄 To know about my experiences, browse through my [résumé](https://rxresu.me/0x4c3dd/original-recent-updated)
 
 </p>
 
@@ -66,18 +66,24 @@ You can click the Preview link to take a look at your changes.
 <!-- BLOG-POST-LIST:END -->
 
 ## 💻 Tech Stack:
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
-![Hyperledger](https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white)
-
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&color=black&labelColor=black)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&&color=black&labelColor=black) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&&color=black&labelColor=black) 
+[![Bash](https://img.shields.io/badge/Bash-%234EAA25?style=for-the-badge&logo=gnubash&color=black&labelColor=black)](https://www.gnu.org/software/bash/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC?style=for-the-badge&logo=typescript&&color=black&labelColor=black)](https://www.typescriptlang.org)
+[![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C?style=for-the-badge&logo=pytorch&&color=black&labelColor=black)](https://pytorch.org)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00?style=for-the-badge&logo=tensorflow&&color=black&labelColor=black)](https://www.tensorflow.org)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&&color=black&labelColor=black) 
+[![AWS](https://img.shields.io/badge/AWS-%23FF9900?style=for-the-badge&logo=amazonwebservices&&color=black&labelColor=black)](https://aws.amazon.com)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&&color=black&labelColor=black)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&&color=black&labelColor=black)
+![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&&color=black&labelColor=black) 
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&&color=black&labelColor=black) 
+[![Solana](https://img.shields.io/badge/Solana-%2300FFA3?style=for-the-badge&logo=solana&color=black&labelColor=black)](https://solana.com)
+[![Ethereum](https://img.shields.io/badge/Ethereum-%233C3C3D?style=for-the-badge&logo=ethereum&color=black&labelColor=black)](https://ethereum.org)
+<!-- ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
+![Hyperledger](https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white) -->
+<!-- ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) -->
 <!--- ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) -->
 <!--- ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) -->
 
