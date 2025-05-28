@@ -59,10 +59,8 @@ You can click the Preview link to take a look at your changes.
 <h2 align="right">Recent Blogs Posts List 📝</h2>
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Multi-Modal Deepfake Detection System Using Google&#39;s Gemini API](https://medium.com/@aka.0x4C3DD/building-a-multi-modal-deepfake-detection-system-using-googles-gemini-api-490dd9f22ada?source=rss-5eb999a3fbcb------2)
-- [Decoding Blockchain and Crypto: My Top FAQs Answered — Part IV](https://medium.com/coinmonks/decoding-blockchain-and-crypto-my-top-faqs-answered-part-iv-511b828e6616?source=rss-5eb999a3fbcb------2)
-- [Decoding Blockchain and Crypto: My Top FAQs Answered — Part III](https://medium.com/coinmonks/decoding-blockchain-and-crypto-my-top-faqs-answered-part-iii-b6e18de6b1a2?source=rss-5eb999a3fbcb------2)
-- [Decoding Blockchain and Crypto: My Top FAQs Answered — Part II](https://medium.com/coinmonks/decoding-blockchain-and-crypto-my-top-faqs-answered-part-ii-0dab4b32c737?source=rss-5eb999a3fbcb------2)
+- [The Evolving Workplace: AI&#39;s Impact Across Job Levels](https://www.linkedin.com/pulse/evolving-workplace-ais-impact-across-job-levels-suman-garai-azzkc)
+- [The Imperfection Paradox: When Flaws Become Fingerprints](https://www.linkedin.com/pulse/imperfection-paradox-when-flaws-become-fingerprints-suman-garai-nve9c)
 <!-- BLOG-POST-LIST:END -->
 
 ## 💻 Tech Stack:
