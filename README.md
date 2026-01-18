@@ -91,8 +91,8 @@ You can click the Preview link to take a look at your changes.
 ________
 
 <p align="center">
-  <img align="middle" src= "https://profile-counter.glitch.me/aka-0x4C3DD/count.svg" /> 
-  <img height="100%" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/aka-0x4C3DD/aka-0x4C3DD/962484e7f4f922c2a4b1c0c653f0f437b5348e89/.github/marqe.svg" />
+  <img src="https://counter.kuber.studio/aka-0x4C3DD/hacker/count.svg" alt="Profile views" />
+  <img height="25%" alt="Thanks for visiting me" width="75%" src="https://raw.githubusercontent.com/aka-0x4C3DD/aka-0x4C3DD/962484e7f4f922c2a4b1c0c653f0f437b5348e89/.github/marqe.svg" />
 </p>
 
 
