@@ -51,7 +51,7 @@ You can click the Preview link to take a look at your changes.
 > 📝 Occationally, I write articles on [medium.com](https://medium.com/@aka.0x4C3DD), and contribute to my [LinkedIn Newsletter](https://www.linkedin.com/newsletters/notesbook-7174090474285072385) <br> <br> 
 > 💬 Primarily, I enjoy engaging in **White and Purple Team** activities, with some **Green Team** initiatives <br> <br>
 > 📫 You can reach me through my [email](mailto:mr.sumangarai.3122@gmail.com) or my social media handles provided <br> <br> 
-> 📄 To know about my experiences, browse through my [résumé](https://rxresu.me/0x4c3dd/original-recent-updated)
+> 📄 To know about my experiences, browse through my [résumé](https://rxresu.me/0x4c3dd/rhyhorn)
 
 </p>
 
