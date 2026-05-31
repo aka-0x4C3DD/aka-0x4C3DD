@@ -61,6 +61,7 @@ You can click the Preview link to take a look at your changes.
 <!-- BLOG-POST-LIST:START -->
 - [AI’s Creativity Dream Became a Humanity Test](https://www.linkedin.com/pulse/ais-creativity-dream-became-humanity-test-suman-garai-tsa2c)
 - [The Evolving Workplace: AI&#39;s Impact Across Job Levels](https://www.linkedin.com/pulse/evolving-workplace-ais-impact-across-job-levels-suman-garai-azzkc)
+- [Building a Multi-Modal Deepfake Detection System Using Google&#39;s Gemini API](https://medium.com/@aka.0x4C3DD/building-a-multi-modal-deepfake-detection-system-using-googles-gemini-api-490dd9f22ada?source=rss-5eb999a3fbcb------2)
 - [The Imperfection Paradox: When Flaws Become Fingerprints](https://www.linkedin.com/pulse/imperfection-paradox-when-flaws-become-fingerprints-suman-garai-nve9c)
 <!-- BLOG-POST-LIST:END -->
 
